@@ -17,3 +17,7 @@ ready-made implementations of the browser widget:
 QtTreePropertyBrowser, QtButtonPropertyBrowser and
 QtGroupBoxPropertyBrowser.
 
+
+i have configure the "simple" project fot qt5
+
+how to configure it for qt5 see http://blog.csdn.net/trustguan/article/details/47004759
